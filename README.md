@@ -1,3 +1,3 @@
 # spider-rocket
 
-https://ToxicDumpster.github.io/spider-rocket
+https://toxicdumpster.github.io/spider-rocket/
